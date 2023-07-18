@@ -3,7 +3,7 @@ this is my first website create for the lading page for the odin project course.
 
 This repository contains a simple webpage with HTML, and CSS. You can access the webpage using the following link:
 
-http://127.0.0.1:5500/index.html
+https://jemishahir.github.io/landing-page-Odin/
 
 Contents
 The repository contains the following files:
